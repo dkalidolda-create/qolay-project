@@ -1,0 +1,1 @@
+Atrium Pulse turns raw sensor messages from a university atrium's Telegram channel into a clear, actionable comfort service. Instead of scrolling through a feed of technical readings, students and staff get an instant answer to a simple question: _is this a good place and time to study, meet, or relax right now?_
