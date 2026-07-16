@@ -1,0 +1,1345 @@
+{
+  "name": "NU Atrium Temp/Lum",
+  "type": "public_channel",
+  "id": 1981526843,
+  "messages": [
+    {
+      "id": 28615,
+      "type": "message",
+      "date": "2026-07-12T00:01:04",
+      "date_unixtime": "1783796464",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 29.75ºC  💡 Dark  🔉 Quiet",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 29.75ºC  💡 Dark  🔉 Quiet"
+        }
+      ]
+    },
+    {
+      "id": 28617,
+      "type": "message",
+      "date": "2026-07-12T00:05:37",
+      "date_unixtime": "1783796737",
+      "edited": "2026-07-12T00:06:29",
+      "edited_unixtime": "1783796789",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 24.0°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 24.0°C"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "💯"
+        }
+      ]
+    },
+    {
+      "id": 28618,
+      "type": "message",
+      "date": "2026-07-12T02:01:14",
+      "date_unixtime": "1783803674",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 28.75ºC  💡 Dark  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 28.75ºC  💡 Dark  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28619,
+      "type": "message",
+      "date": "2026-07-12T03:02:07",
+      "date_unixtime": "1783807327",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 20.6°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 20.6°C"
+        }
+      ]
+    },
+    {
+      "id": 28620,
+      "type": "message",
+      "date": "2026-07-12T04:01:19",
+      "date_unixtime": "1783810879",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 27.81ºC  💡 Dark  🔉 Quiet",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 27.81ºC  💡 Dark  🔉 Quiet"
+        }
+      ]
+    },
+    {
+      "id": 28621,
+      "type": "message",
+      "date": "2026-07-12T04:01:25",
+      "date_unixtime": "1783810885",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 19.7°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 19.7°C"
+        }
+      ]
+    },
+    {
+      "id": 28622,
+      "type": "message",
+      "date": "2026-07-12T06:01:24",
+      "date_unixtime": "1783818084",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 27.25ºC  💡 Normal brightness  🔉 Quiet",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 27.25ºC  💡 Normal brightness  🔉 Quiet"
+        }
+      ]
+    },
+    {
+      "id": 28623,
+      "type": "message",
+      "date": "2026-07-12T08:57:28",
+      "date_unixtime": "1783828648",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 27.2°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 27.2°C"
+        }
+      ]
+    },
+    {
+      "id": 28624,
+      "type": "message",
+      "date": "2026-07-12T09:01:26",
+      "date_unixtime": "1783828886",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 27.81ºC  💡 Bright  🔉 Quiet",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 27.81ºC  💡 Bright  🔉 Quiet"
+        }
+      ]
+    },
+    {
+      "id": 28625,
+      "type": "message",
+      "date": "2026-07-12T09:56:02",
+      "date_unixtime": "1783832162",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 25.3°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 25.3°C"
+        }
+      ]
+    },
+    {
+      "id": 28626,
+      "type": "message",
+      "date": "2026-07-12T10:55:25",
+      "date_unixtime": "1783835725",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 26.7°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 26.7°C"
+        }
+      ]
+    },
+    {
+      "id": 28627,
+      "type": "message",
+      "date": "2026-07-12T11:02:03",
+      "date_unixtime": "1783836123",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 29.12ºC  💡 Bright  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 29.12ºC  💡 Bright  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28628,
+      "type": "message",
+      "date": "2026-07-12T11:54:43",
+      "date_unixtime": "1783839283",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 28.1°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 28.1°C"
+        }
+      ]
+    },
+    {
+      "id": 28629,
+      "type": "message",
+      "date": "2026-07-12T12:02:07",
+      "date_unixtime": "1783839727",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 29.87ºC  💡 Bright  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 29.87ºC  💡 Bright  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28630,
+      "type": "message",
+      "date": "2026-07-12T12:54:03",
+      "date_unixtime": "1783842843",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 28.9°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 28.9°C"
+        }
+      ]
+    },
+    {
+      "id": 28631,
+      "type": "message",
+      "date": "2026-07-12T13:02:13",
+      "date_unixtime": "1783843333",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 30.81ºC  💡 Bright  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 30.81ºC  💡 Bright  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28632,
+      "type": "message",
+      "date": "2026-07-12T14:02:18",
+      "date_unixtime": "1783846938",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 31.81ºC  💡 Very bright  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 31.81ºC  💡 Very bright  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28633,
+      "type": "message",
+      "date": "2026-07-12T14:53:10",
+      "date_unixtime": "1783849990",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 30.3°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 30.3°C"
+        }
+      ]
+    },
+    {
+      "id": 28634,
+      "type": "message",
+      "date": "2026-07-12T15:02:24",
+      "date_unixtime": "1783850544",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 32.38ºC  💡 Very bright  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 32.38ºC  💡 Very bright  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28635,
+      "type": "message",
+      "date": "2026-07-12T18:50:37",
+      "date_unixtime": "1783864237",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 29.9°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 29.9°C"
+        }
+      ]
+    },
+    {
+      "id": 28636,
+      "type": "message",
+      "date": "2026-07-12T19:02:24",
+      "date_unixtime": "1783864944",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 31.69ºC  💡 Normal brightness  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 31.69ºC  💡 Normal brightness  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28637,
+      "type": "message",
+      "date": "2026-07-12T19:49:53",
+      "date_unixtime": "1783867793",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 29.1°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 29.1°C"
+        }
+      ]
+    },
+    {
+      "id": 28638,
+      "type": "message",
+      "date": "2026-07-12T20:02:31",
+      "date_unixtime": "1783868551",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 31.19ºC  💡 Dim  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 31.19ºC  💡 Dim  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28640,
+      "type": "message",
+      "date": "2026-07-12T21:02:43",
+      "date_unixtime": "1783872163",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 30.56ºC  💡 Dim  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 30.56ºC  💡 Dim  🔉 Noisy"
+        }
+      ]
+    },
+    {
+      "id": 28642,
+      "type": "message",
+      "date": "2026-07-12T21:48:07",
+      "date_unixtime": "1783874887",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 25.8°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 25.8°C"
+        }
+      ]
+    },
+    {
+      "id": 28643,
+      "type": "message",
+      "date": "2026-07-12T22:02:50",
+      "date_unixtime": "1783875770",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 30.06ºC  💡 Dim  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 30.06ºC  💡 Dim  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28644,
+      "type": "message",
+      "date": "2026-07-12T22:47:27",
+      "date_unixtime": "1783878447",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 24.8°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 24.8°C"
+        }
+      ]
+    },
+    {
+      "id": 28645,
+      "type": "message",
+      "date": "2026-07-12T23:02:55",
+      "date_unixtime": "1783879375",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 29.56ºC  💡 Dim  🔉 Quiet",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 29.56ºC  💡 Dim  🔉 Quiet"
+        }
+      ]
+    },
+    {
+      "id": 28646,
+      "type": "message",
+      "date": "2026-07-12T23:46:34",
+      "date_unixtime": "1783881994",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 22.8°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 22.8°C"
+        }
+      ]
+    },
+    {
+      "id": 28647,
+      "type": "message",
+      "date": "2026-07-13T00:03:00",
+      "date_unixtime": "1783882980",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 29.06ºC  💡 Dark  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 29.06ºC  💡 Dark  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28648,
+      "type": "message",
+      "date": "2026-07-13T02:03:05",
+      "date_unixtime": "1783890185",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 28.12ºC  💡 Dark  🔉 Quiet",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 28.12ºC  💡 Dark  🔉 Quiet"
+        }
+      ]
+    },
+    {
+      "id": 28649,
+      "type": "message",
+      "date": "2026-07-13T02:44:00",
+      "date_unixtime": "1783892640",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 19.6°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 19.6°C"
+        }
+      ]
+    },
+    {
+      "id": 28650,
+      "type": "message",
+      "date": "2026-07-13T03:43:05",
+      "date_unixtime": "1783896185",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 18.9°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 18.9°C"
+        }
+      ]
+    },
+    {
+      "id": 28651,
+      "type": "message",
+      "date": "2026-07-13T04:03:09",
+      "date_unixtime": "1783897389",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 27.31ºC  💡 Dark  🔉 Quiet",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 27.31ºC  💡 Dark  🔉 Quiet"
+        }
+      ]
+    },
+    {
+      "id": 28652,
+      "type": "message",
+      "date": "2026-07-13T06:41:13",
+      "date_unixtime": "1783906873",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 21.3°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 21.3°C"
+        }
+      ]
+    },
+    {
+      "id": 28653,
+      "type": "message",
+      "date": "2026-07-13T07:40:37",
+      "date_unixtime": "1783910437",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 29.6°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 29.6°C"
+        }
+      ]
+    },
+    {
+      "id": 28654,
+      "type": "message",
+      "date": "2026-07-13T10:03:12",
+      "date_unixtime": "1783918992",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 28.50ºC  💡 Bright  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 28.50ºC  💡 Bright  🔉 Noisy"
+        }
+      ]
+    },
+    {
+      "id": 28655,
+      "type": "message",
+      "date": "2026-07-13T11:03:22",
+      "date_unixtime": "1783922602",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 29.25ºC  💡 Bright  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 29.25ºC  💡 Bright  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28656,
+      "type": "message",
+      "date": "2026-07-13T11:37:51",
+      "date_unixtime": "1783924671",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 31.1°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 31.1°C"
+        }
+      ]
+    },
+    {
+      "id": 28657,
+      "type": "message",
+      "date": "2026-07-13T12:03:30",
+      "date_unixtime": "1783926210",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 30.19ºC  💡 Bright  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 30.19ºC  💡 Bright  🔉 Noisy"
+        }
+      ]
+    },
+    {
+      "id": 28658,
+      "type": "message",
+      "date": "2026-07-13T12:37:18",
+      "date_unixtime": "1783928238",
+      "edited": "2026-07-13T12:46:06",
+      "edited_unixtime": "1783928766",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 32.0°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 32.0°C"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "💯"
+        }
+      ]
+    },
+    {
+      "id": 28659,
+      "type": "message",
+      "date": "2026-07-13T13:03:36",
+      "date_unixtime": "1783929816",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 31.31ºC  💡 Bright  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 31.31ºC  💡 Bright  🔉 Noisy"
+        }
+      ]
+    },
+    {
+      "id": 28660,
+      "type": "message",
+      "date": "2026-07-13T13:36:20",
+      "date_unixtime": "1783931780",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 32.6°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 32.6°C"
+        }
+      ]
+    },
+    {
+      "id": 28661,
+      "type": "message",
+      "date": "2026-07-13T14:04:44",
+      "date_unixtime": "1783933484",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 32.31ºC  💡 Very bright  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 32.31ºC  💡 Very bright  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28662,
+      "type": "message",
+      "date": "2026-07-13T14:35:38",
+      "date_unixtime": "1783935338",
+      "edited": "2026-07-13T15:54:03",
+      "edited_unixtime": "1783940043",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 33.9°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 33.9°C"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "😢"
+        }
+      ]
+    },
+    {
+      "id": 28663,
+      "type": "message",
+      "date": "2026-07-13T15:04:56",
+      "date_unixtime": "1783937096",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 32.88ºC  💡 Very bright  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 32.88ºC  💡 Very bright  🔉 Noisy"
+        }
+      ]
+    },
+    {
+      "id": 28664,
+      "type": "message",
+      "date": "2026-07-13T18:33:25",
+      "date_unixtime": "1783949605",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 33.1°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 33.1°C"
+        }
+      ]
+    },
+    {
+      "id": 28665,
+      "type": "message",
+      "date": "2026-07-13T19:32:15",
+      "date_unixtime": "1783953135",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 30.6°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 30.6°C"
+        }
+      ]
+    },
+    {
+      "id": 28666,
+      "type": "message",
+      "date": "2026-07-13T20:04:57",
+      "date_unixtime": "1783955097",
+      "edited": "2026-07-13T21:18:32",
+      "edited_unixtime": "1783959512",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 32.00ºC  💡 Dim  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 32.00ºC  💡 Dim  🔉 Noisy"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "💯"
+        }
+      ]
+    },
+    {
+      "id": 28667,
+      "type": "message",
+      "date": "2026-07-13T20:31:28",
+      "date_unixtime": "1783956688",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 29.8°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 29.8°C"
+        }
+      ]
+    },
+    {
+      "id": 28668,
+      "type": "message",
+      "date": "2026-07-13T21:30:43",
+      "date_unixtime": "1783960243",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 27.2°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 27.2°C"
+        }
+      ]
+    },
+    {
+      "id": 28669,
+      "type": "message",
+      "date": "2026-07-13T22:05:05",
+      "date_unixtime": "1783962305",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 30.94ºC  💡 Dim  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 30.94ºC  💡 Dim  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28670,
+      "type": "message",
+      "date": "2026-07-13T22:30:06",
+      "date_unixtime": "1783963806",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 28.1°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 28.1°C"
+        }
+      ]
+    },
+    {
+      "id": 28671,
+      "type": "message",
+      "date": "2026-07-13T23:05:10",
+      "date_unixtime": "1783965910",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 30.44ºC  💡 Dim  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 30.44ºC  💡 Dim  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28672,
+      "type": "message",
+      "date": "2026-07-13T23:29:22",
+      "date_unixtime": "1783967362",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 25.8°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 25.8°C"
+        }
+      ]
+    },
+    {
+      "id": 28673,
+      "type": "message",
+      "date": "2026-07-14T00:28:41",
+      "date_unixtime": "1783970921",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 27.2°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 27.2°C"
+        }
+      ]
+    },
+    {
+      "id": 28674,
+      "type": "message",
+      "date": "2026-07-14T01:28:00",
+      "date_unixtime": "1783974480",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 25.7°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 25.7°C"
+        }
+      ]
+    },
+    {
+      "id": 28675,
+      "type": "message",
+      "date": "2026-07-14T02:05:12",
+      "date_unixtime": "1783976712",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 29.19ºC  💡 Dark  🔉 Quiet",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 29.19ºC  💡 Dark  🔉 Quiet"
+        }
+      ]
+    },
+    {
+      "id": 28676,
+      "type": "message",
+      "date": "2026-07-14T02:27:15",
+      "date_unixtime": "1783978035",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 25.1°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 25.1°C"
+        }
+      ]
+    },
+    {
+      "id": 28677,
+      "type": "message",
+      "date": "2026-07-14T03:26:29",
+      "date_unixtime": "1783981589",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 24.0°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 24.0°C"
+        }
+      ]
+    },
+    {
+      "id": 28678,
+      "type": "message",
+      "date": "2026-07-14T04:05:17",
+      "date_unixtime": "1783983917",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 28.50ºC  💡 Dark  🔉 Quiet",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 28.50ºC  💡 Dark  🔉 Quiet"
+        }
+      ]
+    },
+    {
+      "id": 28679,
+      "type": "message",
+      "date": "2026-07-14T05:25:21",
+      "date_unixtime": "1783988721",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 24.6°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 24.6°C"
+        }
+      ]
+    },
+    {
+      "id": 28680,
+      "type": "message",
+      "date": "2026-07-14T06:24:48",
+      "date_unixtime": "1783992288",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 25.8°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 25.8°C"
+        }
+      ]
+    },
+    {
+      "id": 28681,
+      "type": "message",
+      "date": "2026-07-14T09:05:16",
+      "date_unixtime": "1784001916",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 29.06ºC  💡 Bright  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 29.06ºC  💡 Bright  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28682,
+      "type": "message",
+      "date": "2026-07-14T09:23:30",
+      "date_unixtime": "1784003010",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 30.2°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 30.2°C"
+        }
+      ]
+    },
+    {
+      "id": 28683,
+      "type": "message",
+      "date": "2026-07-14T10:05:21",
+      "date_unixtime": "1784005521",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 29.69ºC  💡 Bright  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 29.69ºC  💡 Bright  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28684,
+      "type": "message",
+      "date": "2026-07-14T10:22:42",
+      "date_unixtime": "1784006562",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 32.2°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 32.2°C"
+        }
+      ]
+    },
+    {
+      "id": 28685,
+      "type": "message",
+      "date": "2026-07-14T11:05:32",
+      "date_unixtime": "1784009132",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 30.44ºC  💡 Bright  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 30.44ºC  💡 Bright  🔉 Noisy"
+        }
+      ]
+    },
+    {
+      "id": 28686,
+      "type": "message",
+      "date": "2026-07-14T11:22:11",
+      "date_unixtime": "1784010131",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 34.2°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 34.2°C"
+        }
+      ]
+    },
+    {
+      "id": 28687,
+      "type": "message",
+      "date": "2026-07-14T12:05:44",
+      "date_unixtime": "1784012744",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 31.25ºC  💡 Bright  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 31.25ºC  💡 Bright  🔉 Noisy"
+        }
+      ]
+    },
+    {
+      "id": 28688,
+      "type": "message",
+      "date": "2026-07-14T13:05:56",
+      "date_unixtime": "1784016356",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 32.25ºC  💡 Bright  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 32.25ºC  💡 Bright  🔉 Noisy"
+        }
+      ]
+    },
+    {
+      "id": 28689,
+      "type": "message",
+      "date": "2026-07-14T13:21:39",
+      "date_unixtime": "1784017299",
+      "edited": "2026-07-14T14:09:24",
+      "edited_unixtime": "1784020164",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 36.1°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 36.1°C"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": 28690,
+      "type": "message",
+      "date": "2026-07-14T14:06:09",
+      "date_unixtime": "1784019969",
+      "edited": "2026-07-14T14:09:20",
+      "edited_unixtime": "1784020160",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 33.38ºC  💡 Very bright  🔉 Very noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 33.38ºC  💡 Very bright  🔉 Very noisy"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": 28691,
+      "type": "message",
+      "date": "2026-07-14T14:19:43",
+      "date_unixtime": "1784020783",
+      "edited": "2026-07-14T14:22:17",
+      "edited_unixtime": "1784020937",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 38.0°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 38.0°C"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 9,
+          "emoji": "🔥"
+        },
+        {
+          "type": "emoji",
+          "count": 3,
+          "emoji": "🤯"
+        },
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "🕊"
+        },
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "🙈"
+        }
+      ]
+    },
+    {
+      "id": 28692,
+      "type": "message",
+      "date": "2026-07-14T16:18:17",
+      "date_unixtime": "1784027897",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 37.1°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 37.1°C"
+        }
+      ]
+    },
+    {
+      "id": 28693,
+      "type": "message",
+      "date": "2026-07-14T19:06:13",
+      "date_unixtime": "1784037973",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 32.81ºC  💡 Normal brightness  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 32.81ºC  💡 Normal brightness  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28694,
+      "type": "message",
+      "date": "2026-07-14T19:16:19",
+      "date_unixtime": "1784038579",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 34.4°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 34.4°C"
+        }
+      ]
+    },
+    {
+      "id": 28695,
+      "type": "message",
+      "date": "2026-07-14T20:06:37",
+      "date_unixtime": "1784041597",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 32.31ºC  💡 Dim  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 32.31ºC  💡 Dim  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28696,
+      "type": "message",
+      "date": "2026-07-14T20:15:22",
+      "date_unixtime": "1784042122",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 33.2°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 33.2°C"
+        }
+      ]
+    },
+    {
+      "id": 28697,
+      "type": "message",
+      "date": "2026-07-14T21:06:43",
+      "date_unixtime": "1784045203",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 31.81ºC  💡 Dim  🔉 Noisy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 31.81ºC  💡 Dim  🔉 Noisy"
+        }
+      ]
+    },
+    {
+      "id": 28698,
+      "type": "message",
+      "date": "2026-07-14T21:14:11",
+      "date_unixtime": "1784045651",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 30.7°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 30.7°C"
+        }
+      ]
+    },
+    {
+      "id": 28699,
+      "type": "message",
+      "date": "2026-07-14T22:06:48",
+      "date_unixtime": "1784048808",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 31.25ºC  💡 Dim  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 31.25ºC  💡 Dim  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28700,
+      "type": "message",
+      "date": "2026-07-14T23:06:59",
+      "date_unixtime": "1784052419",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🏫 Atrium: 🌡 30.75ºC  💡 Dim  🔉 Mild noise",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🏫 Atrium: 🌡 30.75ºC  💡 Dim  🔉 Mild noise"
+        }
+      ]
+    },
+    {
+      "id": 28701,
+      "type": "message",
+      "date": "2026-07-14T23:12:22",
+      "date_unixtime": "1784052742",
+      "from": "NU Atrium Temp/Lum",
+      "from_id": "channel1981526843",
+      "text": "🌆 Outside NU: 🌡 27.9°C",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "🌆 Outside NU: 🌡 27.9°C"
+        }
+      ]
+    }
+  ]
+}
