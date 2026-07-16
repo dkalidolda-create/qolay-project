@@ -531,3 +531,28 @@ button {
     font-size: 2.4rem;
   }
 }
+
+.dark .stat {
+  background: #1e293b;
+  border-color: #334155;
+  color: #f1f5f9;
+}
+.dark .stat__label {
+  color: #94a3b8;
+}
+.dark .breakdown {
+  background: #1e293b;
+  border-color: #334155;
+}
+.dark .breakdown__label {
+  color: #f1f5f9;
+}
+.dark .breakdown__track {
+  background: #0f172a;
+}
+.dark .breakdown__value {
+  color: #94a3b8;
+}
+.dark .stats__title {
+  color: #f1f5f9;
+}
