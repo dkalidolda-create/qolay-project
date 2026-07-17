@@ -142,7 +142,9 @@ VITE_API_URL=https://qolay-project-production.up.railway.app
 
 ## 👥 Команда
 
-_(впиши имена и роли — кто фронтенд, кто бэкенд, кто 3D/дизайн)_
+- **Kalidolda Damilya** — backend, 3D-визуализация / дизайн
+- **Tussupova Nazyly** — frontend
+- **Gulnur Maksot** — презентация, исследование информации
 
 ## 🛠 Стек
 
