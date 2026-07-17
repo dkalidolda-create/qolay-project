@@ -37,12 +37,8 @@ export default function Sidebar({ open, onClose, onToggleTheme, dark }: Props) {
             transition={{ type: "spring", stiffness: 260, damping: 28 }}
           >
             <div className="flex items-center justify-between mb-6">
-              <span className="font-bold text-lg tracking-tight">
-                Atrium Pulse
-              </span>
-              <button onClick={onClose} className="text-xl">
-                ×
-              </button>
+              <span className="font-bold text-lg tracking-tight">Qolay</span>
+              <button onClick={onClose} className="text-xl"></button>
             </div>
 
             {LINKS.map((link) => (
