@@ -11,6 +11,8 @@ Full-stack сервис, который превращает поток сыры
 - **GitHub-репозиторий:** https://github.com/dkalidolda-create/qolay-project
 
 ## 🧱 Архитектура
+
+```
 qolay-project/
 ├── backend/              # FastAPI + SQLModel + SQLite
 │   ├── app/
@@ -22,12 +24,13 @@ qolay-project/
 │   ├── data/result.json  # Исходный экспорт Telegram-канала
 │   └── requirements.txt
 └── frontend/             # React + TypeScript + Vite
-└── src/
-├── pages/         # Dashboard, History, Analytics, Reports
-├── components/    # 3D-сцена, Sidebar, ControlPanel, графики
-├── api.ts         # HTTP-клиент к backend
-├── comfort.ts     # Comfort Score на фронте (для Timeline)
-└── theme.ts       # Цветовая палитра приложения
+    └── src/
+        ├── pages/         # Dashboard, History, Analytics, Reports
+        ├── components/    # 3D-сцена, Sidebar, ControlPanel, графики
+        ├── api.ts         # HTTP-клиент к backend
+        ├── comfort.ts     # Comfort Score на фронте (для Timeline)
+        └── theme.ts       # Цветовая палитра приложения
+```
 
 Frontend получает **все** данные через REST API — статичных/захардкоженных показаний в коде нет.
 
